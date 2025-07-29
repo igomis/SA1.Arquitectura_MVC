@@ -10,8 +10,9 @@ Ideal per a aplicacions amb separació clara de responsabilitats.
 
 Cal executar en el terminal
 
-**npm install
-npm start**
+**npm install**
+
+**npm start**
 
 
 ### REST Client. 
