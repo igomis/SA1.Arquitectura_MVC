@@ -1,0 +1,12 @@
+{
+  "name": "sa1-arquitectura-mvc",
+  "version": "1.0.0",
+  "description": "Exemple d'arquitectura web MVC per a SA1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
