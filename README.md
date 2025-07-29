@@ -21,3 +21,8 @@ Cal executar en el terminal
 
 Al fitxer peticions.http, fes clic al botó “Send Request” que apareix damunt la línia POST....
 Si no apareix el botó, instal·la l'extensió REST Client des del Marketplace de VS Code dins del mateix Codespaces.
+
+#### Petició GET per llegir els items
+
+Al fitxer peticions.http, fes clic al botó “Send Request” que apareix damunt la línia GET....
+També ho pots vore obrint el navegador
